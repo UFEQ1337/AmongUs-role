@@ -9,7 +9,7 @@
 ---
 
 <a name="crewmates"></a>
-## 👥 **ROLE CREWMATES** (28)  
+## 👥 **ROLE CREWMATES**
 *Drużyna: Niebieska | Cel: Przetrwać i wykonać zadania*  
 
 | Ikona | Rola | Opis |  
@@ -40,6 +40,11 @@
 | 🧛♂️ | **Vampire Hunter** | Zabija Wampiry, potem zmienia się w inną rolę. |  
 | 🛡️ | **Veteran** | Zabija każdego, kto go zaatakuje na Alertcie. |  
 | 💥 | **Vigilante** | Zabija podczas spotkań, ryzykując życie. |  
+| 🏭 | **Deputy** | Może obserwować graczy i strzelić do zabójcy w kolejnym spotkaniu. |  
+| 🏫 | **Jailor** | Może więzić i przesłuchiwać graczy, a także ich eliminować. |  
+| 🌇 | **Lookout** | Obserwuje graczy i widzi, kto z nimi interaguje. |  
+| 🌟 | **Politician** | Kampania do graczy, by zostać Burmistrzem. |  
+| 🚰 | **Warden** | Fortyfikuje graczy, czyniąc ich odpornymi na interakcje. | 
 
 ---
 
@@ -67,7 +72,7 @@
 ---
 
 <a name="impostors"></a>
-## 🔴 **ROLE IMPOSTORÓW** (16)  
+## 🔴 **ROLE IMPOSTORÓW**
 *Cel: Eliminacja Crewmates*  
 
 | Ikona | Rola | Opis |  
@@ -86,11 +91,13 @@
 | 🧪 | **Venerer** | Zyskuje umiejętności po zabójstwach (kamuflaż, sprint). |  
 | ⚡ | **Warlock** | Nieskończone zabójstwa po naładowaniu. |  
 | 💥 | **Detonator** | Podkłada bomby na graczach. |  
+| 💀 | **Hypnotist** | Hipnotyzuje graczy i powoduje masową histerię. |  
+| 🐾 | **Scavenger** | Skraca swój cooldown zabójstw po udanych eliminacjach. | 
 
 ---
 
 <a name="modifiers"></a>
-## 🎲 **MODYFIKATORY** (20)  
+## 🎲 **MODYFIKATORY**
 *Dodatkowe efekty dla graczy*  
 
 | Ikona | Modyfikator | Efekt |  
@@ -115,6 +122,9 @@
 | 🙃 | **Upside-down** | Odwrócony widok i sterowanie. |  
 | ❄️ | **Freeze** | Zabójca zamarza na 10s. |  
 | ☢️ | **Radiative** | Promieniowanie zabija graczy w zasięgu. |  
+| 🔋 | **Saboteur** | Zmniejsza cooldown sabotaży. |  
+| 🌮 | **Shy** | Staje się przezroczysty, gdy stoi w miejscu. |  
+| 🌜 | **Sixth Sense** | Widzi, kto z nim interaguje. |
 
 ---
 
