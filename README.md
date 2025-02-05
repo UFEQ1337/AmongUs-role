@@ -1,147 +1,183 @@
-# 📚 **Kompletna Lista Ról i Modyfikatorów w Town of Us**  
-*Kliknij w kategorię, aby przejść do opisu ⬇️*
+# 📚 **Kompletna Lista Ról i Modyfikatorów w Town of Us**
 
-1. **[👥 Role Crewmates](#crewmates)**  
-2. **[🌑 Role Neutralne](#neutral)**  
-3. **[🔴 Role Impostorów](#impostors)**  
-4. **[🎲 Modyfikatory](#modifiers)**  
+_Kliknij w kategorię, aby przejść do opisu ⬇️_
+
+1. **[👥 Role Crewmates](#crewmates)**
+2. **[🌑 Role Neutralne](#neutral)**
+3. **[🔴 Role Impostorów](#impostors)**
+4. **[🎲 Modyfikatory](#modifiers)**
 
 ---
 
 <a name="crewmates"></a>
-## 👥 **ROLE CREWMATES**  
-*Drużyna: Niebieska | Cel: Przetrwać i wykonać zadania*  
+
+## 👥 **ROLE CREWMATES**
+
+_Drużyna: Niebieska | Cel: Przetrwać i wykonać zadania_
 
 ### **Podstawowe Role**
-| Ikona | Rola | Opis | Cooldowny/Ustawienia |  
-|-------|------|------|----------------------|  
-| 🩹 | **Altruist** | Ożywia martwych graczy, ryzykując własne życie. | **Czas ożywiania:** 10s<br>**Ciało znika po rozpoczęciu ożywiania:** Tak/Nie |  
-| 🌌 | **Aurial** | Widzi aury aktywności (strzałki do graczy używających umiejętności). | **Zasięg aury:** 0.5x–1.5x<br>**Czas trwania strzałek:** 10s |  
-| 🔍 | **Detective** | Bada miejsca zbrodni i sprawdza obecność graczy. | **Cooldown badania:** 25s<br>**Pokazuj rolę zabójcy w raportach:** Tak (do 15s od śmierci) |  
-| 🛠️ | **Engineer** | Naprawia sabotaże zdalnie, używa wentyli. | **Maksymalne naprawy:** 5 |  
-| 👻 | **Haunter** | Po śmierci ujawnia Impostorów, jeśli wykona zadania. | **Zadania do ujawnienia:** 1<br>**Możliwość kliknięcia Hauntera:** Po 5 zadaniach |  
-| 🎯 | **Hunter** | Zabija podejrzanych bez kary za pomyłkę. | **Cooldown zabójstwa:** 25s<br>**Maks. śledzeń:** 5 |  
-| 🎭 | **Imitator** | Naśladuje umiejętności martwych Crewmates. | **Może zostać Burmistrzem:** Tak/Nie |  
-| 🔬 | **Investigator** | Widzi ślady stóp innych graczy. | **Czas śladów:** 10s<br>**Anonimowe ślady:** Tak/Nie |  
-| 🏛️ | **Mayor** | Po ujawnieniu ma +2 głosy. | **Anonimowe głosy:** Tak/Nie |  
-| 🩺 | **Medic** | Daje osłonę wybranemu graczowi. | **Pokazuj osłonę:** Tylko Medic/Osłonięty/Wszyscy |  
-| 🔮 | **Medium** | Komunikuje się z duchami poprzez Mediate. | **Cooldown Mediate:** 10s<br>**Ujawnia wygląd duchów:** Tak/Nie |  
-| 🧙 | **Mystic** | Otrzymuje alert o śmierci i strzałki do ciał. | **Czas trwania strzałek:** 0.1s |  
-| 🧿 | **Oracle** | Wymusza wyznania, nadaje immunitet. | **Skuteczność wyznań:** 80% |  
-| ⚖️ | **Prosecutor** | Raz na grę wyklucza gracza bez głosowania. | **Umiera przy błędzie:** Tak/Nie |  
-| 👁️ | **Seer** | Ujawnia frakcję graczy (zielony/szary/czerwony). | **Cooldown ujawniania:** 25s |  
-| 🚨 | **Sheriff** | Zabija Impostorów, ale ginie przy pomyłce. | **Cooldown zabójstwa:** 25s<br>**Zabija Neutralnych:** Tak/Nie |  
-| 🕵️ | **Snitch** | Widzi czerwone nazwy Impostorów po skończeniu zadań. | **Ujawnia się przy:** 1 zadaniu<br>**Pokazuje Neutralnych:** Tak/Nie |  
-| 🕶️ | **Spy** | Widzi kolory graczy na Admin Table. | **Widzi martwych na Admin:** Tak/Nie |  
-| 🔄 | **Swapper** | Zamienia głosy między graczami. | **Może używać przycisku:** Tak/Nie |  
-| 🎯 | **Tracker** | Śledzi graczy za pomocą strzałek. | **Cooldown śledzenia:** 25s<br>**Maks. śledzeń:** 5 |  
-| 🪤 | **Trapper** | Stawia pułapki ujawniające role. | **Czas aktywacji pułapki:** 1s<br>**Maks. pułapek:** 5 |  
-| ✈️ | **Transporter** | Zamienia miejscami dwóch graczów. | **Cooldown transportu:** 25s<br>**Maks. użyć:** 5 |  
-| 🛡️ | **Veteran** | Zabija każdego, kto go zaatakuje na Alertcie. | **Czas Alertu:** 25s<br>**Maks. Alertów:** 3 |  
-| 💥 | **Vigilante** | Zabija podczas spotkań, ryzykując życie. | **Liczba zabójstw:** 1<br>**Zgaduje Lovers:** Tak/Nie |  
-| 🏫 | **Jailor** | Więzi i przesłuchuje graczy. | **Cooldown więzienia:** 25s<br>**Maks. egzekucji:** 3 |  
-| 🌇 | **Lookout** | Obserwuje interakcje graczy. | **Cooldown obserwacji:** 25s<br>**Maks. obserwacji:** 5 |  
-| 🌟 | **Politician** | Kampania do graczy, by zostać Burmistrzem. | **Cooldown kampanii:** 25s |  
-| 🚰 | **Warden** | Fortyfikuje graczy, blokując interakcje. | **Cooldown fortyfikacji:** 0s (natychmiastowy) |  
+
+| Ikona | Rola             | Opis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Cooldowny/Ustawienia                                                                       |
+| ----- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 🩹    | **Altruist**     | Ma możliwość poświęcenia się w celu wskrzeszenia innego gracza. W momencie, w którym znajdzie ciało, może użyć swojego przycisku Revive, aby przywrócić danego gracza do życia, przy czym sam umiera. Wskrzeszenie trwa jakiś czas (domyślnie 10 sekund).                                                                                                                                                                                                                                                                                                            | **Czas ożywiania:** 10s<br>**Ciało znika po rozpoczęciu ożywiania:** Tak/Nie               |
+| 🌌    | **Aurial**       | Aurialowi pokazuje się strzałka do miejsca jakiejś interakcji. Jeśli jest wystarczająco blisko tego miejsca (zależne od ustawień), kolor strzałki odpowiada kolorowi gracza, który podjął interakcję.                                                                                                                                                                                                                                                                                                                                                                | **Zasięg aury:** 0.5x–1.5x<br>**Czas trwania strzałek:** 10s                               |
+| 🔍    | **Detective**    | Posiada 2 umiejętności - Examine i Inspect. Examine to umiejętność, której może używać na innych graczach. Pokazuje mu ona, czy dany gracz zabił kogoś w ostatnich (zależne od ustawień) kilkudziesięciu sekundach. Inspect to umiejętność, której może używać na znalezionych ciałach. Gdy ciało danego gracza zostanie zbadane, a jego zabójca zginie, umiejętność Examine wyłączy się.                                                                                                                                                                            | **Cooldown badania:** 25s<br>**Pokazuj rolę zabójcy w raportach:** Tak (do 15s od śmierci) |
+| 🛠️    | **Engineer**     | Może naprawiać sabotaże z dowolnego miejsca na mapie oraz używać ventów.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Maksymalne naprawy:** 5                                                                  |
+| 👻    | **Haunter**      | Po śmierci zmienia się w półwidocznego ducha. Jeżeli ukończy wszystkie swoje taski, wszystkim graczom ukazują się na meetingu impostorzy. Natomiast jeżeli któryś z impostorów (lub zależnie ustawień również ról neutralnych) zauważy Hauntera i naciśnie jego poświatę, traci on natychmiastowo swoje zdolności.                                                                                                                                                                                                                                                   | **Zadania do ujawnienia:** 1<br>**Możliwość kliknięcia Hauntera:** Po 5 zadaniach          |
+| 🎯    | **Hunter**       | Hunter może "śledzić" wybranego gracza i zabić go, jeśli zrobi coś podejrzanego. Swojej umiejętności zabijającej może użyć tylko i wyłącznie na zaznaczonym graczu i użyć jej może dopiero wtedy, gdy będzie miał powód (gdy zaznaczony gracz użyje jakiejś umiejętności, na przykład kill, Hunterowi rozświetli się ekran). Jeśli Hunter zostanie wygłosowany, razem z nim zostanie wyrzucony również jego target.                                                                                                                                                  | **Cooldown zabójstwa:** 25s<br>**Maks. śledzeń:** 5                                        |
+| 🎭    | **Imitator**     | W trakcie meetingu może pożyczyć rolę zmarłych crewmate'ów na czas kolejnej rundy. Nie może więc przybierać ról, które wykorzystywane są podczas meetingów (m.in. mayor, swapper, vigilante), bo na ich czas staje się z powrotem Imitatorem.                                                                                                                                                                                                                                                                                                                        | **Może zostać Burmistrzem:** Tak/Nie                                                       |
+| 🔬    | **Investigator** | Widzi przez określony czas ślady stóp zostawione przez innych graczy. Ślady mają kolor gracza, do którego one należą.                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Czas śladów:** 10s<br>**Anonimowe ślady:** Tak/Nie                                       |
+| 🏛️    | **Mayor**        | Po ujawnieniu ma +2 głosy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Anonimowe głosy:** Tak/Nie                                                               |
+| 🩺    | **Medic**        | Może dać dowolnemu graczowi tarczę, która da mu nieśmiertelność, tak długo jak sam Medic pozostanie żywy. Kiedy Medic zgłosi ciało, dostanie wskazówkę (typ koloru - to znaczy darker, czyli ciemny lub lighter, czyli jasny) dotyczącą tożsamości zabójcy.                                                                                                                                                                                                                                                                                                          | **Pokazuj osłonę:** Tylko Medic/Osłonięty/Wszyscy                                          |
+| 🔮    | **Medium**       | W trakcie rundy może użyć swojej umiejętności mediate, która pozwoli mu na komunikację z duchami graczy - to znaczy duch zmarłej osoby stanie się dla niego (na określony w ustawieniach czas) widoczny. Taki duch może wówczas na przykład zaprowadzić go do osoby, która ją zabiła.                                                                                                                                                                                                                                                                                | **Cooldown Mediate:** 10s<br>**Ujawnia wygląd duchów:** Tak/Nie                            |
+| 🧙    | **Mystic**       | W chwili śmierci jakiegokolwiek gracza Mystic’owi ukazuje się na chwilę (zależnie od ustawień, często jest to zaledwie mniej niż sekunda) strzałka prowadząca do ciała.                                                                                                                                                                                                                                                                                                                                                                                              | **Czas trwania strzałek:** 0.1s                                                            |
+| 🧿    | **Oracle**       | Może wybrać gracza, który będzie wyznawać/zdradzać mu informacje. Posiada 3 umiejętności: 1) Gdy Oracle zginie, gracz, którego wybrał do wyznawania, ukaże swoją przynależność; 2) Na każdym meetingu otrzymuje informację (wiadomość na chacie) na temat tego, kto może być zły; 3) Daje "błogosławieństwo" graczowi, którego wybrał, co daje mu immunitet na głosowaniu - nie można tej osoby wygłosować.                                                                                                                                                          | **Skuteczność wyznań:** 80%                                                                |
+| ⚖️    | **Prosecutor**   | Raz w ciągu gry ma możliwość wyrzucenia dowolnego gracza (głosy innych nie mają wtedy znaczenia). Widzi również głosy innych jako nieanonimowe. Zależnie od ustawień gdy Prosecutor wyrzuci crewmate'a może umrzeć razem z nim lub nie.                                                                                                                                                                                                                                                                                                                              | **Umiera przy błędzie:** Tak/Nie                                                           |
+| 👁️    | **Seer**         | Może sprawdzać innych graczy. Jeżeli sprawdzony gracz jest crewmate’em lub ma nieszkodliwą rolę neutralną, to jego nick będzie zielony, a jeżeli sprawdzony gracz okaże się być impostorem lub złą rolą neutralną, nick będzie czerwony.                                                                                                                                                                                                                                                                                                                             | **Cooldown ujawniania:** 25s                                                               |
+| 🚨    | **Sheriff**      | Posiada umiejętność zabijania. Może zabić impostorów oraz złe role neutralne, natomiast jeżeli spróbuje zabić crewmate'a lub nieszkodliwą rolę neutralną, sam zginie.                                                                                                                                                                                                                                                                                                                                                                                                | **Cooldown zabójstwa:** 25s<br>**Zabija Neutralnych:** Tak/Nie                             |
+| 🕵️    | **Snitch**       | W momencie skończenia swoich tasków, Snitch widzi strzałki wskazujące impostorów. Ich nicki zmienią również kolor na czerwony. Zależnie od ustawień, Snitch może nie znać swojej roli (to znaczy ukazywać się jako Crewmate) aż do momentu, kiedy zostaną mu dwa taski. Natomiast kiedy Snitchowi zostaną te dwa taski, wtedy Impostorom ukaże się strzałka prowadząca do niego.                                                                                                                                                                                     | **Ujawnia się przy:** 1 zadaniu<br>**Pokazuje Neutralnych:** Tak/Nie                       |
+| 🕶️    | **Spy**          | Na Admin Panelu widzi dokładne kolory główek.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Widzi martwych na Admin:** Tak/Nie                                                       |
+| 🔄    | **Swapper**      | Może zamienić podczas meetingu głosy oddane na dwóch graczy. To znaczy wszystkie głosy oddane na pierwszego z wybranych graczy zostaną przypisane na konto drugiego i vice versa.                                                                                                                                                                                                                                                                                                                                                                                    | **Może używać przycisku:** Tak/Nie                                                         |
+| 🎯    | **Tracker**      | Może wybrać sobie graczy, których chce śledzić podczas rundy. Pokazują mu się wtedy strzałki prowadzące do wybranych graczy; aktualizuje się ona co określony w ustawieniach czas.                                                                                                                                                                                                                                                                                                                                                                                   | **Cooldown śledzenia:** 25s<br>**Maks. śledzeń:** 5                                        |
+| 🪤    | **Trapper**      | Posiada umiejętność stawiania widocznych tylko dla siebie pułapek. Podczas meetingu na chat’cie wyświetlą mu się role graczy, którzy przeszli przez pułapkę. Minimalna ilość ról złapanych przez pułapkę, żeby wywołać wiadomość jest zależna od ustawień.                                                                                                                                                                                                                                                                                                           | **Czas aktywacji pułapki:** 1s<br>**Maks. pułapek:** 5                                     |
+| ✈️    | **Transporter**  | Może zamieniać miejscami dwóch wybranych graczy na mapie. Nie może używać Vitalsów.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Cooldown transportu:** 25s<br>**Maks. użyć:** 5                                          |
+| 🛡️    | **Veteran**      | Może przełączyć się na tzw. "Tryb gotowości". Po takim przełączeniu, ktokolwiek - niezależnie od typu swojej roli (impostor, crewmate, rola neutralna), kto spróbuje wejść z nim w interakcję, od razu zginie.                                                                                                                                                                                                                                                                                                                                                       | **Czas Alertu:** 25s<br>**Maks. Alertów:** 3                                               |
+| 💥    | **Vigilante**    | Może zabijać w trakcie "meetingu". To znaczy może spróbować odgadnąć role impostorów oraz neutrali. Jeżeli odgadnie poprawnie, zabije danego gracza. Natomiast jeżeli popełni błąd, sam zginie.                                                                                                                                                                                                                                                                                                                                                                      | **Liczba zabójstw:** 1<br>**Zgaduje Lovers:** Tak/Nie                                      |
+| 🏫    | **Jailor**       | Może "uwięzić" innych graczy, zabierając im w ten sposób możliwość użycia jakiejkolwiek umiejętności związanej z meetingiem oraz sprawia, że żadna związana z meetingiem umiejętność nie może być użyta na danym graczu. Podczas meetingu wszyscy widzą, kto został uwięziony. Jailor może komunikować się z uwięzionym graczem, wpisując na czacie /jail przed treścią wiadomości (osoba uwięziona może odpisywać w taki sam sposób). Jailor może zabić uwięzionego gracza, ale jeśli się pomyli i dany gracz okaże się być Crewmate'em, straci swoje umiejętności. | **Cooldown więzienia:** 25s<br>**Maks. egzekucji:** 3                                      |
+| 🌇    | **Lookout**      | Obserwuje interakcje graczy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **Cooldown obserwacji:** 25s<br>**Maks. obserwacji:** 5                                    |
+| 🌟    | **Politician**   | Tworzy swoją kampanię, zaznaczając graczy. Po zebraniu kilku graczy w swojej kampanii może użyć swojej umiejętności reveal. Jeśli co najmniej połowa Crewmate'ów należy do jego kampanii, może ujawnić się jako Mayor. Jeśli do jego kampanii należy mniej niż połowa Crewmate'ów, ujawnienie nie powiedzie się i Politician będzie miał cooldown na poszerzanie swojej kampanii na jedną rundę.                                                                                                                                                                     | **Cooldown kampanii:** 25s                                                                 |
+| 🚰    | **Warden**       | Warden może fortyfikować innych graczy, uniemożliwiając innym na wejście z nimi w interakcję (umiejętności oraz zgadywanie roli podczas meetingu). Nie ochrania to jednak przed zwykłym zabójstwem. Przy próbie wejścia w interakcję z bronionym przez Wardena graczem, Wardenowi oraz graczowi, próbującemu podjąć daną interakcję zaświeci się ekran.                                                                                                                                                                                                              | **Cooldown fortyfikacji:** 0s (natychmiastowy)                                             |
 
 ---
 
 <a name="neutral"></a>
-## 🌑 **ROLE NEUTRALNE**  
-*Cel: Indywidualne zwycięstwo*  
 
-### **Neutralni Benigni**  
-| Ikona | Rola | Opis | Cooldowny/Ustawienia |  
-|-------|------|------|----------------------|  
-| 🧠 | **Amnesiac** | Przejmuje rolę pierwszego martwego gracza. | **Strzałki do ciał:** Tak/Nie<br>**Opóźnienie strzałek:** 5s |  
-| 👼 | **Guardian Angel** | Chroni wybranego gracza. | **Cooldown ochrony:** 25s<br>**Czas ochrony:** 10s |  
-| 🛡️ | **Survivor** | Wygrywa, przeżywając. | **Cooldown kamizelki:** 25s<br>**Maks. kamizelek:** 5 |  
+## 🌑 **ROLE NEUTRALNE**
+
+_Cel: Indywidualne zwycięstwo_
+
+### **Neutralni Benigni**
+
+| Ikona | Rola               | Opis                                                                                                                                                                                                                                                                                                                                                        | Cooldowny/Ustawienia                                         |
+| ----- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 🧠    | **Amnesiac**       | Posiada umiejętność zabrania roli zmarłego gracza, gdy znajdzie jego ciało. Ponadto, zależnie od ustawień, po jakimś czasie od padnięcia ciała może pojawić mu się strzałka prowadząca do niego.                                                                                                                                                            | **Strzałki do ciał:** Tak/Nie<br>**Opóźnienie strzałek:** 5s |
+| 👼    | **Guardian Angel** | Na początku gry dostaje cel, czyli wyznaczonego gracza, którego musi chronić za wszelką cenę. Do pomocy w jego ochronie ma do dyspozycji 5 krótkotrwałych tarcz. Przy próbie zabicia osoby z tarczą, napastnikowi zwraca się cooldown. Jeśli dany cel umrze, Guardian Angel otrzymuje rolę Crewmate, Jester, Survivor bądź Amnesiac (zależnie od ustawień). | **Cooldown ochrony:** 25s<br>**Czas ochrony:** 10s           |
+| 🛡️    | **Survivor**       | Jego jedynym celem jest przetrwanie do końca gry. Może używać kamizelki ochronnej, która chroni go przed zabójstwem.                                                                                                                                                                                                                                        | **Cooldown kamizelki:** 25s<br>**Maks. kamizelek:** 5        |
+
+---
 
 ### **Neutralni Evil**
-| Ikona | Rola | Opis | Cooldowny/Ustawienia |  
-|-------|------|------|----------------------| 
-| 🃏 | **Jester** | Wygrywa, jeśli zostanie wykluczony. | **Może używać wentyli:** Tak/Nie<br>**Widzi jak Impostor:** Tak/Nie |  
-| 👨⚖️ | **Executioner** | Musi wykluczyć swojego celu. | **Zmienia się w...:** Crewmate/Jester po śmierci celu |  
-| 💣 | **Doomsayer** | Zgaduje 3 role w spotkaniach, by wygrać. | **Cooldown obserwacji:** 25s<br>**Zgaduje Impostorów:** Tak/Nie |  
 
-### **Neutralni Zabójcy**  
-| Ikona | Rola | Opis | Cooldowny/Ustawienia |  
-|-------|------|------|----------------------| 
-| 🔥 | **Arsonist** | Podpala wszystkich, by zostać ostatnim. | **Cooldown podpalania:** 25s<br>**Widzi jak Impostor:** Tak/Nie |  
-| 🦠 | **Plaguebearer** | Zaraża graczy, zmieniając się w Pestilence. | **Cooldown infekcji:** 25s<br>**Zabija jako Pestilence:** 25s |  
-| 🤖 | **The Glitch** | Hackuje i naśladuje graczy. | **Cooldown hackowania:** 25s<br>**Czas hacku:** 10s |  
-| 🧛 | **Vampire** | Zamienia Crewmates w Wampiry. | **Cooldown ugryzienia:** 25s<br>**Maks. Wampirów:** 2 |  
-| 🐺 | **Werewolf** | Zabija tylko w trybie Rampage. | **Cooldown Rampage:** 25s<br>**Czas Rampage:** 25s |  
-| 🌀 | **Juggernaut** | Skraca cooldown zabójstw z każdym killem. | **Startowy cooldown:** 25s<br>**Redukcja:** 5s na kill |  
+| Ikona | Rola            | Opis                                                                                                                                                                                                                                                                                                                         | Cooldowny/Ustawienia                                                |
+| ----- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 🃏    | **Jester**      | Wygrywa grę samodzielnie, jeśli zostanie wygłosowany podczas meetingu.                                                                                                                                                                                                                                                       | **Może używać wentyli:** Tak/Nie<br>**Widzi jak Impostor:** Tak/Nie |
+| 👨⚖️  | **Executioner** | Dostaje na początku gry cel, to znaczy gracza, który musi zostać wygłosowany. Jeżeli dany gracz zostanie wyrzucony, Executioner wygrywa samodzielnie. Jeśli jego cel umrze, wtedy zależnie od ustawień, otrzymuje on rolę Crewmate, Jester, Survivor bądź Amnesiac.                                                          | **Zmienia się w...:** Crewmate/Jester/Survivor/Amnesiac             |
+| 💣    | **Doomsayer**   | Jego zadaniem jest zgadnięcie podczas jednego meetingu ról trzech graczy. Posiada umiejętność "Observe", dzięki której może podczas rundy wybrać jakiegoś gracza. Na meetingu na czacie pokaże mu się lista ról, między którymi będzie się kryła faktyczna rola wybranej osoby. Jeśli poprawnie odgadnie trzy role, wygrywa. | **Cooldown obserwacji:** 25s<br>**Zgaduje Impostorów:** Tak/Nie     |
+
+### **Neutralni Zabójcy**
+
+| Ikona | Rola               | Opis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Cooldowny/Ustawienia                                           |
+| ----- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| 🧛    | **Vampire**        | Za pomocą swojej umiejętności Bite może zabijać lub przemieniać w Wampira innych graczy. Gdy ugryzie Crewmate'a, przemieni go (w każdym momencie gry mogą być maksymalnie dwa Wampiry), a gdy ugryzie rolę neutralną lub impostora, zabije daną osobę.                                                                                                                                                                                                                                                                                                                   | **Cooldown gryzienia:** 25s<br>**Maks. Wampirów:** 2           |
+| 🐺    | **Werewolf**       | Aby wygrać, musi zostać ostatnim żywym graczem. Posiada umiejętność zwaną Rampage, która po kliknięciu sprawia, że na określony czas zwiększa mu się wizja oraz odblokowuje przycisk Kill.                                                                                                                                                                                                                                                                                                                                                                               | **Cooldown Rampage:** 25s<br>**Czas Rampage:** 10s             |
+| 🦹    | **Arsonist**       | Posiada dwie umiejętności - Douse oraz Ignite. Za pomocą Douse może oblewać graczy benzyną. Następnie jeżeli podejdzie do któregoś z oblanych graczy, może skorzystać z umiejętności Ignite, która podpali i uśmierci ich wszystkich naraz.                                                                                                                                                                                                                                                                                                                              | **Cooldown Douse:** 25s<br>**Cooldown Ignite:** 10s            |
+| 🦠    | **Plaguebearer**   | Posiada zdolność infect pozwalającą mu zarażać innych graczy. Dodatkowo zarażeni gracze mogą nieświadomie infekować kolejnych, gdy wejdą z nimi w interakcje. Po zarażeniu wszystkich Plaguebearer zmienia się w Pestilence’a. Jako Pestilence zachowuje się podobnie jak aktywowany Veteran, czyli ktokolwiek, kto spróbuje wejść z nim w jakąkolwiek interakcję, natychmiastowo umiera. Nawet jeśli jest loverem i jego kochanek umrze, Pestilence dalej będzie żył. Jedyny sposób pozbycia się go to wygłosowanie; jeśli zostanie ostatnim graczem na mapie, wygrywa. | **Cooldown infekcji:** 25s<br>**Czas trwania Pestilence:** 10s |
+| 🕵️    | **Stalker**        | Wybiera sobie "ofiarę" i musi trzymać się blisko niej, żeby załadował się jego kill cooldown. Może wtedy zabić TYLKO stalkowanego gracza. Jeśli chce zmienić cel, znów musi trzymać się blisko nowej "ofiary".                                                                                                                                                                                                                                                                                                                                                           | **Cooldown śledzenia:** 25s<br>**Maks. ofiar:** 1              |
+| 👻    | **Phantom**        | Po śmierci staje się pół-widoczny. Może wygrać grę samodzielnie, kończąc wszystkie swoje taski i nie zostając przy tym złapanym. Phantoma można złapać, klikając na jego posturę. Phantoma może otrzymać tylko zmarła rola neutralna.                                                                                                                                                                                                                                                                                                                                    | **Czas niewidzialności:** 10s<br>**Maks. tasków:** 5           |
+| 🧙    | **Soul Collector** | Może użyć na graczach swojej umiejętności reap, żeby w przypadku śmierci danego gracza, wyrwać z niego duszę. Zależnie od ustawień, może też zbierać dusze pasywnie, co rundę. Wygrywa samodzielnie, gdy zbierze wystarczającą ilość dusz.                                                                                                                                                                                                                                                                                                                               | **Cooldown reap:** 25s<br>**Maks. dusz:** 5                    |
+| 🧟    | **The Glitch**     | Celem roli The Glitch jest pozostanie ostatnim żywym graczem. The Glitch posiada poza zabijaniem 2 dodatkowe umiejętności - hack, która pozwala na czasowe blokowanie umiejętności innych graczy, na przykład robienie tasków albo reportowanie ciał oraz mimic, która pozwala Glitchowi na przybranie postaci dowolnego innego gracza.                                                                                                                                                                                                                                  | **Cooldown hack:** 25s<br>**Cooldown mimic:** 10s              |
+| 💪    | **Juggernaut**     | Może zabijać, a z każdym kolejnym killem jego cooldown skraca się. Wygrywa samodzielnie, gdy zostaje ostatnim żywym graczem.                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Cooldown zabójstwa:** 25s<br>**Maks. zabójstw:** 5           |
 
 ---
 
 <a name="impostors"></a>
-## 🔴 **ROLE IMPOSTORÓW**  
-*Cel: Eliminacja Crewmates*  
 
-### **Klasyczni Impostorzy**  
-| Ikona | Rola | Opis | Cooldowny/Ustawienia |  
-|-------|------|------|----------------------| 
-| 🧹 | **Janitor** | Usuwa ciała (współdzieli cooldown z zabijaniem). | **Brak dodatkowych ustawień** |  
-| ⛏️ | **Miner** | Tworzy nowe wentyle. | **Cooldown kopania:** 25s |  
-| 🎭 | **Morphling** | Kopiuje wygląd innych graczy. | **Cooldown morfowania:** 25s<br>**Czas morfu:** 10s |  
-| 👻 | **Swooper** | Staje się niewidzialny. | **Cooldown niewidzialności:** 25s<br>**Czas:** 10s |  
+## 🔴 **ROLE IMPOSTORÓW**
 
-### **Specjalni Impostorzy** 
-| Ikona | Rola | Opis | Cooldowny/Ustawienia |  
-|-------|------|------|----------------------| 
-| 🤐 | **Blackmailer** | Blokuje mówienie wybranym graczom. | **Cooldown blackmailu:** 10s<br>**Maks. żyjących do blokady głosu:** 5 |  
-| 💣 | **Bomber** | Podkłada bomby z opóźnionym detonatorem. | **Opóźnienie detonacji:** 5s<br>**Promień wybuchu:** 0.25x |  
-| 🌀 | **Hypnotist** | Hipnotyzuje graczy i powoduje masową histerię. | **Cooldown hipnozy:** 25s |  
-| 🎮 | **Traitor** | Crewmate zmieniający się w Impostora po śmierci kolegów. | **Min. żyjących do zmiany:** 5 |  
-| ⚰️ | **Undertaker** | Przenosi ciała. | **Prędkość z ciałem:** 0.75x<br>**Może używać wentyli z ciałem:** Tak/Nie |  
-| 🧪 | **Venerer** | Zyskuje umiejętności po zabójstwach (kamuflaż, sprint). | **Cooldown umiejętności:** 25s<br>**Czas trwania:** 10s |  
-| 💥 | **Detonator** | Podkłada bomby na graczach. | **Detonacja po:** 5s<br>**Maks. ofiar:** 5 |  
-| 🐾 | **Scavenger** | Skraca cooldown zabójstw po udanych killach. | **Cooldown po błędzie:** x3 |  
+_Cel: Eliminacja Crewmates_
+
+### **Klasyczni Impostorzy**
+
+| Ikona | Rola          | Opis                                                                                                                                                                                               | Cooldowny/Ustawienia                                |
+| ----- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| 🧹    | **Janitor**   | Posiada zdolność sprzątania ciał, to znaczy znikania ich z mapy. Cooldown sprzątnięcia oraz zabijania się łączy, więc należy zastanowić się, czy lepiej sprzątnąć ciało czy zabić jakiegoś gracza. | **Brak dodatkowych ustawień**                       |
+| ⛏️    | **Miner**     | Posiada umiejętność tworzenia nowych ventów. Wszystkie postawione venty łączą się ze sobą i tylko ze sobą.                                                                                         | **Cooldown kopania:** 25s                           |
+| 🎭    | **Morphling** | Posiada umiejętność czasowego przybierania postaci dowolnego innego gracza. Na początku gry oraz po każdym meetingu może pobrać próbkę innego gracza, a później przybrać jego postać.              | **Cooldown morfowania:** 25s<br>**Czas morfu:** 10s |
+| 👻    | **Swooper**   | Może zrobić się na określony czas niewidzialny.                                                                                                                                                    | **Cooldown niewidzialności:** 25s<br>**Czas:** 10s  |
+
+### **Specjalni Impostorzy**
+
+| Ikona | Rola            | Opis                                                                                                                                                                                                                                                                                                                 | Cooldowny/Ustawienia                                                      |
+| ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 🤐    | **Blackmailer** | Blokuje mówienie wybranym graczom na czas meetingu. Może podejść do gracza w trakcie rundy i użyć umiejętności "blackmail", aby uniemożliwić mu mówienie podczas następnego głosowania.                                                                                                                              | **Cooldown blackmailu:** 10s<br>**Maks. żyjących do blokady głosu:** 5    |
+| 💣    | **Bomber**      | Może podkładać bomby, które wybuchają po określonym czasie. Promień eksplozji eliminuje wszystkich graczy w zasięgu.                                                                                                                                                                                                 | **Opóźnienie detonacji:** 5s<br>**Promień wybuchu:** 0.25x                |
+| 🌀    | **Hypnotist**   | Może hipnotyzować graczy, zmieniając ich postrzeganie rzeczywistości. Podczas meetingu może użyć umiejętności "Mass Hysteria", która powoduje, że zahipnotyzowani gracze widzą innych jako zakamuflowanych, niewidzialnych lub jako swoje klony. Po użyciu Mass Hysteria nie może już hipnotyzować kolejnych graczy. | **Cooldown hipnozy:** 25s                                                 |
+| 🎮    | **Traitor**     | Jeśli wszyscy Impostorzy zginą, losowy Crewmate może stać się Traitor'em. Jego zadaniem jest dokończenie misji impostorów, eliminując Crewmates.                                                                                                                                                                     | **Min. żyjących do zmiany:** 5                                            |
+| ⚰️    | **Undertaker**  | Może przesuwać ciała, ukrywając je w trudno dostępnych miejscach. Dzięki temu może utrudnić innym znalezienie zwłok.                                                                                                                                                                                                 | **Prędkość z ciałem:** 0.75x<br>**Może używać wentyli z ciałem:** Tak/Nie |
+| 🧪    | **Venerer**     | Zyskuje dodatkowe umiejętności po każdym kolejnym zabójstwie:<br>1. **Kamuflaż** – może się ukryć (tylko dla siebie).<br>2. **Szybszy bieg** – zwiększona prędkość ruchu.<br>3. **Spowolnienie przeciwników** – wszyscy pozostali gracze poruszają się wolniej.                                                      | **Cooldown umiejętności:** 25s<br>**Czas trwania:** 10s                   |
+| 💥    | **Detonator**   | Może rzucać bombę na gracza i aktywować ją w dowolnym momencie za pomocą przycisku "Detonate". Wybuch eliminuje graczy w określonym promieniu.                                                                                                                                                                       | **Detonacja po:** 5s<br>**Maks. ofiar:** 5                                |
+| 🐾    | **Scavenger**   | Impostor, który poluje na graczy. Za każdą udaną eliminację jego czas odnowienia umiejętności kill skraca się. Jeśli popełni błąd i zabije nieodpowiednią osobę, jego cooldown znacząco wzrasta.                                                                                                                     | **Cooldown po błędzie:** x3                                               |
+| 🔥    | **Warlock**     | Jego przycisk kill ładuje się przez krótki czas (1-3 sekundy, zależnie od ustawień). Podczas ładowania może zabijać bez limitu, ale po zakończeniu tej fazy musi czekać na cooldown jak zwykły impostor.                                                                                                             | **Czas ładowania kill:** 1-3s<br>**Cooldown po zakończeniu:** standardowy |
+| 🧹    | **Janitor**     | Może sprzątać ciała, całkowicie usuwając je z mapy. Jednak cooldown tej umiejętności jest wspólny z cooldownem zabójstwa, więc musi zdecydować, czy lepiej ukryć zwłoki, czy zabić kolejnego gracza.                                                                                                                 | **Cooldown czyszczenia:** 25s                                             |
+| 💀    | **Grenadier**   | Rzuca granaty, które na określony czas oślepiają wszystkich graczy w zasięgu. Może to wykorzystać do zamieszania i łatwiejszych eliminacji.                                                                                                                                                                          | **Czas oślepienia:** 5s                                                   |
+| 👻    | **Swooper**     | Może stać się niewidzialny na określony czas, co pozwala mu przemieszczać się niezauważenie i eliminować graczy w ukryciu.                                                                                                                                                                                           | **Czas niewidzialności:** 10s                                             |
 
 ---
 
 <a name="modifiers"></a>
-## 🎲 **MODYFIKATORY**  
-*Dodatkowe efekty dla graczy*  
 
-### **Dla Wszystkich**  
-| Ikona | Rola | Opis | Cooldowny/Ustawienia |  
-|-------|------|------|----------------------| 
-| ☢️ | **Aftermath** | Zabójca musi użyć swojej umiejętności po zabiciu. | **Szansa:** 0–100% |  
-| 🎣 | **Bait** | Zabójca automatycznie zgłasza ciało. | **Opóźnienie:** 0–1s |  
-| 📞 | **Button Barry** | Może zwołać spotkanie w każdej chwili. | **Szansa:** 0–100% |  
-| ❄️ | **Frosty** | Spowalnia zabójcę na 10s. | **Szansa:** 0–100% |  
-| ❤️ | **Lovers** | Dwoje graczy wygrywa razem. | **Szansa:** 0–100%<br>**Szansa na Impostora w parze:** 20% |  
-| 🧩 | **Multitasker** | Zadania są półprzezroczyste. | **Szansa:** 0–100% |  
+## 🎲 **MODYFIKATORY**
 
-### **Dla Crewmates**  
-| Ikona | Rola | Opis | Cooldowny/Ustawienia |  
-|-------|------|------|----------------------| 
-| 🦠 | **Diseased** | Zwiększa cooldown zabójstw o 300%. | **Szansa:** 0–100% |  
-| 💡 | **Torch** | Pełna widoczność podczas sabotażu świateł. | **Szansa:** 0–100% |  
+_Dodatkowe efekty dla graczy_
 
-### **Dla Impostorów**  
-| Ikona | Rola | Opis | Cooldowny/Ustawienia |  
-|-------|------|------|----------------------| 
-| 🌪️ | **Disperser** | Teleportuje wszystkich do wentyli. | **Szansa:** 0–100% |  
-| 🔫 | **Double Shot** | Ma dwa strzały do zgadywania ról. | **Szansa:** 0–100% |  
-| ☢️ | **Saboteur** | Zmniejsza cooldown sabotaży o 10s. | **Szansa:** 0–100% |  
-| 🕶️ | **Underdog** | Skrócony cooldown zabójstw, gdy jest ostatnim Impostorem. | **Bonus do cooldownu:** 5s |  
+### **Dla Wszystkich**
 
-### **Efekty Wizualne** 
-| Ikona | Rola | Opis | Cooldowny/Ustawienia |  
-|-------|------|------|----------------------| 
-| ⚡ | **Flash** | +25% prędkości ruchu. | **Szansa:** 0–100% |  
-| 🏔️ | **Giant** | -25% prędkości ruchu. | **Szansa:** 0–100% |  
-| 🧒 | **Mini** | Mały rozmiar, zmienna prędkość. | **Szansa:** 0–100% |  
-| 🌜 | **Sixth Sense** | Widzi, kto z nim interaguje. | **Szansa:** 0–100% |  
+| Ikona | Rola             | Opis                                                                                                                                                                                                                                                                     | Cooldowny/Ustawienia                                       |
+| ----- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| ☢️    | **Aftermath**    | Zabicie Aftermatha sprawia, że zabójca natychmiastowo używa swojej umiejętności (chyba że żadnej nie posiada lub już jej aktualnie używa).                                                                                                                               | **Szansa:** 0–100%                                         |
+| 🎣    | **Bait**         | Zabicie Baita sprawia, że zabójca natychmiastowo sam reportuje ciało, popełnia tzw. self-report.                                                                                                                                                                         | **Opóźnienie:** 0–1s                                       |
+| 📞    | **Button Barry** | Posiada umiejętność zgłoszenia meetingu z dowolnego miejsca na mapie.                                                                                                                                                                                                    | **Szansa:** 0–100%                                         |
+| ❄️    | **Frosty**       | Zabicie Frosty'ego spowalnia zabójcę na krótki czas.                                                                                                                                                                                                                     | **Szansa:** 0–100%                                         |
+| ❤️    | **Lovers**       | Ten modyfikator otrzymuje dwóch losowych graczy i sprawia, że są oni połączeni. Jeżeli jeden z nich zginie, drugi natychmiast popełni samobójstwo. Ich głównym celem jest pozostać żywymi. Posiadają własny prywatny chat, z którego mogą korzystać tylko podczas rundy. | **Szansa:** 0–100%<br>**Szansa na Impostora w parze:** 20% |
+| 🧩    | **Multitasker**  | Jego taski są transparentne, dzięki czemu może obserwować mapę nawet podczas ich wykonywania.                                                                                                                                                                            | **Szansa:** 0–100%                                         |
+
+### **Dla Crewmates**
+
+| Ikona | Rola         | Opis                                                                                   | Cooldowny/Ustawienia |
+| ----- | ------------ | -------------------------------------------------------------------------------------- | -------------------- |
+| 🦠    | **Diseased** | Zabicie gracza z modyfikatorem Diseased mnoży (zależnie od ustawień) cooldown zabójcy. | **Szansa:** 0–100%   |
+| 💡    | **Torch**    | Wizja gracza z tym modyfikatorem nie maleje przy zgaszonych światłach.                 | **Szansa:** 0–100%   |
+
+### **Dla Impostorów**
+
+| Ikona | Rola            | Opis                                                                                                                                                                                                                   | Cooldowny/Ustawienia       |
+| ----- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| 🌪️    | **Disperser**   | Raz w ciągu gry może użyć swojej umiejętności, aby wysłać wszystkich graczy do randomowych ventów.                                                                                                                     | **Szansa:** 0–100%         |
+| 🔫    | **Double Shot** | Posiada dodatkowe życie przy odgadywaniu ról innych graczy. Przy pierwszej błędnej próbie, występuje czerwone podświetlenie i nie może odgadnąć już tego samego gracza, ale nie umiera i może próbować zgadywać dalej. | **Szansa:** 0–100%         |
+| ☢️    | **Saboteur**    | Zmniejsza cooldown sabotaży o 10s.                                                                                                                                                                                     | **Szansa:** 0–100%         |
+| 🕶️    | **Underdog**    | Jego cooldown jest wydłużony, natomiast kiedy zostanie jedynym żywym impostorem, skróci się.                                                                                                                           | **Bonus do cooldownu:** 5s |
+
+### **Efekty Wizualne**
+
+| Ikona | Rola            | Opis                                                                                                        | Cooldowny/Ustawienia |
+| ----- | --------------- | ----------------------------------------------------------------------------------------------------------- | -------------------- |
+| ⚡    | **Flash**       | Jest szybszy niż normalny gracz (mnożnik zależny od ustawień).                                              | **Szansa:** 0–100%   |
+| 🏔️    | **Giant**       | Ogromny crewmate ze zmniejszoną prędkością poruszania się.                                                  | **Szansa:** 0–100%   |
+| 🧒    | **Mini**        | Zmniejsza rozmiar gracza.                                                                                   | **Szansa:** 0–100%   |
+| 🌜    | **Sixth Sense** | Widzi, gdy ktoś wchodzi z nimi w interakcję.                                                                | **Szansa:** 0–100%   |
+| 🧊    | **Freeze**      | Zabicie Freeze'a unieruchamia zabójcę na krótki czas.                                                       | **Szansa:** 0–100%   |
+| 🌟    | **Shy**         | Po chwili stania w bezruchu staje się bardzo słabo widoczny.                                                | **Szansa:** 0–100%   |
+| 📡    | **Radar**       | Wie, gdzie znajduje się najbliższy gracz.                                                                   | **Szansa:** 0–100%   |
+| ☢️    | **Radiative**   | Posiada wokół siebie promieniującą sferę, która uśmierca graczy, którzy pozostają zbyt długo w jej zasięgu. | **Szansa:** 0–100%   |
+| 🕵️    | **Sleuth**      | Jeśli Sleuth znajdzie ciało, może zobaczyć rolę zgłoszonego przez siebie gracza podczas meetingu.           | **Szansa:** 0–100%   |
+| ⚖️    | **Tiebreaker**  | Jeśli na koniec głosowania jest remis, głos, który oddał Tiebreaker, jest przeważający.                     | **Szansa:** 0–100%   |
+| 🔄    | **Upside-down** | Wywraca graczowi mapę do góry nogami i zamienia kontrolki.                                                  | **Szansa:** 0–100%   |
 
 ---
 
-## 🛠️ **Mechaniki Gry**  
-- **Camouflaged Comms:** Wszyscy stają się szarzy podczas sabotażu komunikacji.  
-- **Kill During Camouflage:** Impostorzy mogą się zabijać nawzajem podczas kamuflażu.  
-- **First Death Shield:** Pierwsza ofiara otrzymuje osłonę w następnej grze.  
-- **Neutral Evil Win:** Zwycięstwo Neutralnego Evil kończy grę (domyślnie: Tak).  
+## 🛠️ **Mechaniki Gry**
+
+- **Camouflaged Comms:** Wszyscy stają się szarzy podczas sabotażu komunikacji.
+- **Kill During Camouflage:** Impostorzy mogą się zabijać nawzajem podczas kamuflażu.
+- **First Death Shield:** Pierwsza ofiara otrzymuje osłonę w następnej grze.
+- **Neutral Evil Win:** Zwycięstwo Neutralnego Evil kończy grę (domyślnie: Tak).
