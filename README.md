@@ -67,7 +67,6 @@ _Cel: Indywidualne zwycięstwo_
 | 🛡️    | **Survivor**       | Jego jedynym celem jest przetrwanie do końca gry. Może używać kamizelki ochronnej, która chroni go przed zabójstwem.                                                                                                                                                                                                                                        | **Cooldown kamizelki:** 25s<br>**Maks. kamizelek:** 5        |
 | ⚖️    | **Lawyer**         | Dostaje na początku gry cel. Wygrywa, jeśli dany cel przeżyje. Jeśli cel zostanie wygłosowany, Lawyer umrze.                                                                                                                                                                                                                                                | **Brak dodatkowych ustawień**                                |
 
----
 
 ### **Neutralni Evil**
 
